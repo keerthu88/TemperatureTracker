@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Temperature Tracker</string>
+    <string name="warning">Warning \n No Sensor!</string>
+    <string name="day1">Monday</string>
+    <string name="Text">Text</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+</resources>
